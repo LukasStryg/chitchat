@@ -1,0 +1,10 @@
+2026/10/25 20:52:17 client: Bob connected at lamport 1
+2026/10/25 20:52:17 client: Bob got message from Server: Participant Bob joined Chit Chat at logical time 3 (lamport 3, local lamport 4)
+2026/10/25 20:52:18 client: Bob got message from Server: Participant Charlie joined Chit Chat at logical time 5 (lamport 5, local lamport 6)
+2026/10/25 20:52:19 client: Bob got message from Server: Participant Alice joined Chit Chat at logical time 7 (lamport 7, local lamport 8)
+2026/10/25 20:52:20 client: Bob got message from Alice: hello from Alice (lamport 11, local lamport 12)
+2026/10/25 20:52:21 client: Bob publishing hi Alice at lamport 13
+2026/10/25 20:52:21 client: Bob got message from Bob: hi Alice (lamport 15, local lamport 16)
+2026/10/25 20:52:24 client: Bob got message from Server: Participant Alice left Chit Chat at logical time 19 (lamport 19, local lamport 20)
+2026/10/25 20:52:26 client: Bob got message from Charlie: Alice left, bye (lamport 23, local lamport 24)
+2026/10/25 20:52:29 client: Bob left at lamport 25

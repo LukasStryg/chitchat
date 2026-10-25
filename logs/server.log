@@ -1,0 +1,21 @@
+2026/10/25 20:52:16 server: listening on :5050
+2026/10/25 20:52:17 server: Bob connected at lamport 2
+2026/10/25 20:52:17 server: broadcast Participant Bob joined Chit Chat at logical time 3 at lamport 3
+2026/10/25 20:52:18 server: Charlie connected at lamport 4
+2026/10/25 20:52:18 server: broadcast Participant Charlie joined Chit Chat at logical time 5 at lamport 5
+2026/10/25 20:52:19 server: Alice connected at lamport 6
+2026/10/25 20:52:19 server: broadcast Participant Alice joined Chit Chat at logical time 7 at lamport 7
+2026/10/25 20:52:20 server: got message from Alice at lamport 10
+2026/10/25 20:52:20 server: broadcast hello from Alice at lamport 11
+2026/10/25 20:52:21 server: got message from Bob at lamport 14
+2026/10/25 20:52:21 server: broadcast hi Alice at lamport 15
+2026/10/25 20:52:24 server: Alice disconnected at lamport 18
+2026/10/25 20:52:24 server: broadcast Participant Alice left Chit Chat at logical time 19 at lamport 19
+2026/10/25 20:52:26 server: got message from Charlie at lamport 22
+2026/10/25 20:52:26 server: broadcast Alice left, bye at lamport 23
+2026/10/25 20:52:29 server: Bob disconnected at lamport 26
+2026/10/25 20:52:29 server: broadcast Participant Bob left Chit Chat at logical time 27 at lamport 27
+2026/10/25 20:52:30 server: Charlie disconnected at lamport 30
+2026/10/25 20:52:30 server: broadcast Participant Charlie left Chit Chat at logical time 31 at lamport 31
+2026/10/25 20:52:32 server: shutting down
+2026/10/25 20:52:32 server: stopped
